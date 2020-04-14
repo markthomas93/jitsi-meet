@@ -1,0 +1,16 @@
+./gradlew :react-native-background-timer:assembleRelease
+./gradlew :react-native-background-timer:publish
+./gradlew :react-native-fetch-blob:assembleRelease
+./gradlew :react-native-fetch-blob:publish
+./gradlew :react-native-immersive:assembleRelease
+./gradlew :react-native-immersive:publish
+./gradlew :react-native-keep-awake:assembleRelease
+./gradlew :react-native-keep-awake:publish
+./gradlew :react-native-locale-detector:assembleRelease
+./gradlew :react-native-locale-detector:publish
+./gradlew :react-native-vector-icons:assembleRelease
+./gradlew :react-native-vector-icons:publish
+./gradlew :react-native-webrtc:assembleRelease
+./gradlew :react-native-webrtc:publish
+./gradlew :sdk:assembleRelease
+./gradlew :sdk:publish
